@@ -1,0 +1,29 @@
+body {
+    background-color: #000000;
+    font-family:Courier;
+    color:#ffffff
+}
+
+h1 {
+    color: #fecb04;
+    background-color: #2f549b;
+    text-align: center;
+}
+
+h2 {
+    font-weight:bold;
+    font-size: 11px;
+    color: #ffffff
+}
+
+#starters_image_div {
+    text-align: center;
+}
+
+.list {
+    font-weight: bold;
+}
+
+.pokemon_images {
+    text-align: center;
+}
