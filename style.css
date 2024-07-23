@@ -22,8 +22,46 @@ h2 {
 
 .list {
     font-weight: bold;
+    text-align: left;
+    margin-bottom: 100px;
 }
 
-.pokemon_images {
+#bulbasaur_container {
+    text-align: left;
+    background-color: #8cc48e;
+    padding: 20px;
+    border: 5px solid #cfdc9b;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+#charmander_container {
+    text-align: left;
+    background-color: #f3b284;
+    padding: 20px;
+    border: 5px solid #f4e29e;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+#squirtle_container {
+    text-align: left;
+    background-color: #8ec4ce;
+    padding: 20px;
+    border: 5px solid #d0dbb3;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 200px;
+    border-radius: 20px;
+}
+
+div {
     text-align: center;
 }
